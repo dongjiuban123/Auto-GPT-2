@@ -20,6 +20,8 @@ log-ingestion.txt
 logs
 *.log
 *.mp3
+*.env
+*.template
 mem.sqlite3
 
 # Byte-compiled / optimized / DLL files
